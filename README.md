@@ -3,7 +3,7 @@ The Airline Management System is a web-based application developed using HTML, C
 The project is designed with a modern user interface, background images, and smooth animations to provide a professional and realistic airline booking experience. It demonstrates database connectivity, form handling, session management, and dynamic web development concepts.
 This system is suitable for academic projects and helps in understanding full-stack web development with server-side programming.
 
-**Features**
+**Features:**
 User Login System
 Home Page with Navigation
 Flight Booking Form
@@ -19,7 +19,7 @@ Session Management
 User-Friendly Design
 Realistic Airline Booking Layout
 
-**Technologies Used**
+**Technologies Used:**
 HTML
 CSS
 PHP
